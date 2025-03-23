@@ -1,1 +1,32 @@
 This Files summarises the Power bi rePort.
+The Sale store dataset had three main attributes which were sales, profit  and region around which all the data has been simulated and summary is created for the report.
+To generate the report following steps were created
+1. Data was transformed duplicated were removed from the order Id,data type was changed for the Order date and Ship date then data was checked for anomalies.
+2. Data was loaded
+3. Different cards were created as per the requirement for visual.
+
+Conclusion: 
+
+Overall Sales & Profitability: The average sales amount per transaction is $514.29, with an average profit of $92.30 per order.
+
+Category Performance:
+Furniture leads in total sales ($177,215.44), followed by Office Supplies ($169,664.66) and Technology ($167,412.83).
+However, all three categories have similar profit margins, with Furniture having the highest profit of $31,570.04.
+
+Regional Sales & Profit:
+1.The South region recorded the highest sales ($132,740.21) and the highest profit ($23,706.49).
+2.The West region has the lowest profit ($22,686.86), suggesting potential cost inefficiencies.
+
+Customer Segment Analysis:
+1.Home Office customers contributed the highest sales ($140,699.81) and profit ($25,303.46), indicating a strong customer base in this segment.
+2.Small Businesses contributed the least in sales and profit, indicating room for targeted marketing strategies.
+
+Business Recommendations:
+
+1.Focus on expanding Furniture sales while optimizing operational costs for better profitability.
+2.Leverage targeted marketing for the South and Home Office segments, as they generate the highest profits.
+3.Investigate operational inefficiencies in the West region to improve profit margins.
+
+Consider adjusting discount strategies, as the average discount per order is 10%, which may impact profitability.
+
+
